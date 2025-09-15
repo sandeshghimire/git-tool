@@ -7,7 +7,7 @@
 set -e
 
 # Configuration
-DEFAULT_MODEL="qwen3:8b"
+DEFAULT_MODEL="gpt-oss:20b"
 OLLAMA_HOST="http://localhost:11434"
 MAX_DIFF_LINES=100
 
